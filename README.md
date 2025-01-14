@@ -7,7 +7,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Group-Policy-and-Managing-Accounts]()
+- ### [YouTube: Group-Policy-and-Managing-Accounts](https://youtu.be/Z41e761hNfA)
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
